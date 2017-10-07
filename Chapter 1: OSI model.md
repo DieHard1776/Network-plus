@@ -85,12 +85,14 @@ Traffic control
 control connection between computer
 
 
-*Layer 6: Presentation Layer
+**Layer 6: Presentation Layer**
+
 Format data:
+
 encryption/decryption
+
 layer 6 format the data for sending, and decrypted when received
 
-*Layer 7: Application Layer
-Enable apps to acces network
+**Layer 7: Application Layer**
 
-
+Enable apps to access network
