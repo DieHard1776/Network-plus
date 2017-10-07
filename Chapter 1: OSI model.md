@@ -76,9 +76,12 @@ TCP
 
 UDP
 
-*Layer 5: Session Layer
+**Layer 5: Session Layer**
+
 where we establish our connection, handshake with other computers
+
 Traffic control
+
 control connection between computer
 
 
