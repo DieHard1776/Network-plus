@@ -64,11 +64,16 @@ Computer A needs to send data packets. Data packets are broken down into physica
 Computer A (with MAC address ) need to send information to computer B. Computer B is in different network, different subnet to computer A. Because we need to connect to a different network, we need to have a "layer 3" devices. So their need to be 2 router for each computer A and B, and a cable between them to connect.
 
 
-*Layer 4:Transport Layer
+**Layer 4:Transport Layer**
+
 Management/control the data
+
 split our commucation into packet
+
 Types:
+
 TCP
+
 UDP
 
 *Layer 5: Session Layer
