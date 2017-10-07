@@ -36,22 +36,26 @@ include:
 
 conversion between Data -> signal include:
 
-1/ Pinout: pinout in our cable, pinout on pin that we plugged into computer
+1. Pinout: pinout in our cable, pinout on pin that we plugged into computer
 
-2/ voltages
+2. voltages
 
-3/ cable specification: 
+3. cable specification: 
 
-3/ NIC: network interface card: physical port & physical card inside our computer
+4. NIC: network interface card: physical port & physical card inside our computer
 
 **Layer 2: Datalink Layer**
 
 Access
+
 Transfer from point to point
+
 MAC address: unique
+
 Package bits/data into frame
 
-*Layer 3: Network Layer
+**Layer 3: Network Layer**
+
 IP address is logical address,  they;re not address hard-coded into interface network card.
 All computer with network interface card has MAC address and IP address.
 
