@@ -6,7 +6,7 @@ a piece of information that forms part of message sent through a computer networ
 
 Domain Name System: DNS 
 
-**L
+**Layers in OSI model**
 
 Has 7 layers
 layer 1 to 7: Please Do Not Throw Sausage  Pizza Away
