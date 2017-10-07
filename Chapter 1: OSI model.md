@@ -28,10 +28,11 @@ Layer 7: Application Layer
 
 **Layer 1: Physical Layer**
 
-* include:
-Cables/ bits
+include:
 
-physical/ electrical
+* Cables/ bits
+
+* physical/ electrical
 
 conversion between Data -> signal include:
 
