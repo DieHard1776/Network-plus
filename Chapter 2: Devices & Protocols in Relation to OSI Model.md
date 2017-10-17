@@ -20,16 +20,23 @@ IP address
 layer 3: network layer
 IP address is logical address mapped to physical address
 
-*EUI -64 
+EUI -64 
+-------
+
 EUI 64 is another name of IPv6 Global unicast
 Ipv6 is Ip version 6, is a much larger set of binary digit that we can use to create IP address
 Global unicast address is the address that specific for a single network interface across the world
 
-*Switch:
--allow us to connect our devices in the same subnet. If we have multiple computers with IP address of the same subnet in the room, we can connect them via switch.
--Layer 2:data link
+Switch
+------
 
-*Router:
+* allow us to connect our devices in the same subnet. If we have multiple computers with IP address of the same subnet in the room, we can connect them via switch.
+
+* Layer 2:data link
+
+Router
+--------
+
 Layer 3:Network
 
 Hub
