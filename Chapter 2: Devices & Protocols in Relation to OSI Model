@@ -8,6 +8,8 @@ Receiver devices: Hub, Switch
 Sending through cable
 
 * MAC address
+--------------
+
 Each of network interface card has a globally unique MAC address
 MAC address is only use in layer 2: datalink layer
 MAC address is considered as physical address of the network interface 
