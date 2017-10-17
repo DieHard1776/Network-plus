@@ -7,14 +7,16 @@ Receiver devices: Hub, Switch
 
 Sending through cable
 
-* MAC address
+MAC address
 --------------
 
 Each of network interface card has a globally unique MAC address
 MAC address is only use in layer 2: datalink layer
 MAC address is considered as physical address of the network interface 
 
-* IP address
+IP address
+----------
+
 layer 3: network layer
 IP address is logical address mapped to physical address
 
@@ -30,7 +32,9 @@ Global unicast address is the address that specific for a single network interfa
 *Router:
 Layer 3:Network
 
-*Hub:
+Hub
+-----
+
 the hub just takes all the data it receives and just sends it out everybody that connectd to it. So hub allow us to pass data all to multiples computer in our network but it isn;t smart. It doesn;t do anything like routing or connected to IP address
 Layer 2: data link
 
