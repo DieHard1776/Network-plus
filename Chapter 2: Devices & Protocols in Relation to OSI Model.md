@@ -45,11 +45,15 @@ Hub
 the hub just takes all the data it receives and just sends it out everybody that connectd to it. So hub allow us to pass data all to multiples computer in our network but it isn;t smart. It doesn;t do anything like routing or connected to IP address
 Layer 2: data link
 
-*Encryption devices:
+Encryption devices
+-------------------
+
 Layer 6: presentation
 Format data
 
-*Cable :
+Cable 
+-----
+
 physical devices
 Layer 1: physical
 
