@@ -1,7 +1,9 @@
-Definition: DHCP: Dynamic Host Configuration Protocol is a standardized network protocol used on Internet Protocol (IP) networks
+**Definition:** 
+
+**DHCP**: Dynamic Host Configuration Protocol is a standardized network protocol used on Internet Protocol (IP) networks
 
 I/ IP
-*****
+-----
 
 IP address are logically mapped to Physical address
 
