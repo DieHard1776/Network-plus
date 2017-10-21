@@ -19,16 +19,21 @@ IP LAN : 192.168.xxx.xxx
  
 IP public of Modem  go to what is my IP to check
 
-*CLASS:
+***CLASS**
+
 Class A: 1- 126.
 Class B: 128-191
 Class C: 192-223
+
+**Local host**
 
 127: local host
 IF We ping 127.0.0.1 we ping our self, we ping our own NIC
 Class D: Multicasting 224- 239
 
 II/ APIPA 
+-----------
+
 /pronounce: a pi bar/
 
 APIPA: automatic public IP addressing
